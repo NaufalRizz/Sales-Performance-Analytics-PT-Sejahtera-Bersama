@@ -41,5 +41,5 @@ Berdasarkan dashboard Looker Studio yang dibuat:
 ---
 
 ## 🔗 Links & Deliverables
-- **Dashboard Looker Studio**: [Masukkan Link Dashboard Looker Studio Anda]
-- **Video Presentasi**: [Masukkan Link YouTube/Google Drive Video Presentasi]
+- **Dashboard Looker Studio**: https://datastudio.google.com/reporting/d9d5890e-3130-4cdf-be2c-689e79201ecc
+- **Video Presentasi**: https://drive.google.com/file/d/1xwAGteB9bUTLhg949NFEPpRzaANHgsPD/view?usp=sharing
